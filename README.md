@@ -12,9 +12,13 @@ AWS Glue: Used for standard etl jobs, schema change crawlers to read the etl
 
 AWS Athena: Athena is an interactive query service for S3 in which there is no need to load data it stays in S3.
 
-Power BI: was used to create an analytical dashboard
+Power BI: was used to create an analytical dashboard 
+Details for all the data analysis information including the dashboard is found [HERE](https://github.com/iambigdan/Datazens-alpha-team-Datathon/tree/main/dashboard%20and%20data%20analysis)
 
 SKlearning: was used to create a machine learning model [link to the ML model](https://github.com/iambigdan/Datazens-alpha-team-Datathon/blob/main/aws%20resources%20for%20data%20engineering/datazens_alpha_IAM_user_login.csv)
 ## Dataset Used
 
-Data was collected using generative ai after research on the causes of students failures in exam. Chatgpt was able to generate and accurate csv file on the issues.
+Data was collected using generative ai after research on the causes of students failures in exam. Chatgpt was able to generate and accurate csv file on the issues. the causes will be highlighted in the project report
+
+## Architectural Diagram
+will be found [Here](https://github.com/iambigdan/Datazens-alpha-team-Datathon/blob/main/studentdata_archiectural_diagram.jpg)

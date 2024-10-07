@@ -1,4 +1,4 @@
-# Datazens-alpha-team-Datahon
+# Datazens-alpha-team-Datathon
 
 
 ## Services used

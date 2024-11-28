@@ -1,4 +1,14 @@
-# Datazens-alpha-team-Datathon
+
+
+# Project Overview
+
+## Title: Predicting and Enhancing Student Performance in African Schools Using Data-Driven Insights
+
+## Objective:
+To leverage data analytics and machine learning to predict student performance, identify key factors affecting outcomes, and provide actionable recommendations to stakeholders such as educators, parents, and policymakers.
+
+## Impact:
+The project aims to improve educational outcomes across African schools by enabling targeted interventions, reducing dropout rates, and promoting equitable access to quality education.
 
 
 ## Services used
